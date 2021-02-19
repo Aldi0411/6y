@@ -187,8 +187,3 @@ exports.menu = (id, BotName, corohelp, tampilTanggal, tampilWaktu, instagram, ak
 ├≽️ *.Ig link*
 ├ _Ex = .Ig http://www.inst.._
 ╰═══════════════
-
-*Follow Me On Instagram*
-${instagram}`
-
-}
